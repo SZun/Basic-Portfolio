@@ -1,3 +1,5 @@
+/** index.html - css begins **/
+
 html {
     min-width: 100%;
     min-height: 100%;
@@ -40,9 +42,9 @@ p1 {
     display: inline-block;
     margin: -25px;
     margin-top: 97px;
-    margin-right: 99px;
+    margin-right: 114px;
     margin-left: -110px;
-    padding-left: 39px;
+    padding-left: 29px;
     width: auto;
     float: right;
     font-family: Arial, Helvetica, sans-serif;
@@ -130,4 +132,39 @@ hr {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     margin-left: -8px;
+}
+
+/** index.html - css ends **/
+
+/** contact.html - css begins **/
+
+.h3 {
+    color: #777777;
+}
+.input {
+    width: 97%;
+    height: 29px;
+}
+.message-input-width {
+    width: 97%;
+    height: 194px;
+}
+.sumbit-button {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+}
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.word-move {
+    margin: 0;
+}
+.spacing-1 {
+    padding-top: 30px;
+}
+#p5-margin-bottom {
+    margin-bottom: 0;
 }
