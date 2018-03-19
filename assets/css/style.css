@@ -127,6 +127,9 @@ hr {
 .move-down {
     margin-top: 75px;
 }
+.move-down-2 {
+    margin-top: 306px;
+}
 #box {
     width: 104.9%;
     background: #666666;
@@ -229,9 +232,10 @@ hr {
     margin-top: 35px;
 }
 #RPGGame {
-    position: relative;
+    position: fixed;
     top: 0;
     right: 200px;
+    display: none;
 }
 #triviaGame {
     position: absolute;
