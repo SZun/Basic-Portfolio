@@ -235,10 +235,11 @@ hr {
     margin-top: 35px;
 }
 #RPGGame {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 200px;
     display: none;
+    visibility: hidden;
 }
 #triviaGame {
     position: absolute;
