@@ -147,10 +147,14 @@ hr {
 .input {
     width: 99.4%;
     height: 29px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 .message-input-width {
     width: 99.4%;
     height: 194px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 .sumbit-button {
     background: #4aaaa5;
@@ -173,11 +177,12 @@ hr {
 }
 .about-me-box-3 {
     width: 960px;
-    height: 450px;
+    height: 550px;
     border: 1px solid #dddddd;
     padding: 25px;
     margin: 40px;
     margin-left: 150px;
+    margin-top: 38px;
     float: left;
 }
 .move-down-2 {
