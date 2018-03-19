@@ -34,8 +34,11 @@ p, strong, a {
     line-height: 33px;
     font-family: Arial, Helvetica, sans-serif;
 }
+p {
+    margin-top: 5.5px;
+}
 .move-up {
-    margin-top: -28px;
+    margin-top: -33px;
 }
 p1 {
     color: #777777;
@@ -59,7 +62,7 @@ h2{
 .about-me-box {
     width: 960px;
     height: 400px;
-    border: 3px solid #dddddd;
+    border: 1px solid #dddddd;
     padding: 25px;
     margin: 40px;
     margin-left: 150px;
@@ -125,7 +128,7 @@ hr {
     margin-left: 185px;
 }
 .move-down {
-    margin-top: 75px;
+    margin-top: 69px;
 }
 #box {
     width: 104.9%;
@@ -142,11 +145,11 @@ hr {
     color: #777777;
 }
 .input {
-    width: 97%;
+    width: 99.4%;
     height: 29px;
 }
 .message-input-width {
-    width: 97%;
+    width: 99.4%;
     height: 194px;
 }
 .sumbit-button {
@@ -171,14 +174,14 @@ hr {
 .about-me-box-3 {
     width: 960px;
     height: 450px;
-    border: 3px solid #dddddd;
+    border: 1px solid #dddddd;
     padding: 25px;
     margin: 40px;
     margin-left: 150px;
     float: left;
 }
 .move-down-2 {
-    margin-top: 306px;
+    margin-top: 307px;
 }
 
 /** contact.html - css ends **/
@@ -255,14 +258,14 @@ hr {
 .about-me-box-2 {
     width: 960px;
     height: 670px;
-    border: 3px solid #dddddd;
+    border: 1px solid #dddddd;
     padding: 25px;
     margin: 40px;
     margin-left: 150px;
     float: left;
 }
 .move-up-2 {
-    margin-top: -5px;
+    margin-top: -4px;
 }
 
 /** portfolio.html - css ends **/
