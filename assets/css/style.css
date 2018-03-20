@@ -132,18 +132,18 @@ hr {
     margin-top: 69px;
 }
 #vertical-line {
-    border-right: 1px solid #cccccc;
-    height: 30px;
+    border-right: 1px solid #dddddd;
+    height: 18px;
     margin: auto;
-    margin-top: -534px;
-    margin-right: 55px;
+    margin-top: -529px;
+    margin-right: 54px;
 }
 #vertical-line-2 {
-    border-right: 1px solid #cccccc;
-    height: 30px;
+    border-right: 1px solid #dddddd;
+    height: 18px;
     margin: auto;
-    margin-top: -30px;
-    margin-right: 157px;
+    margin-top: -18px;
+    margin-right: 156px;
 }
 
 /** index.html - css ends **/
@@ -223,11 +223,18 @@ hr {
     margin-left: -8px;
 }
 #vertical-line-3 {
-    border-right: 1px solid #cccccc;
-    height: 30px;
+    border-right: 1px solid #dddddd;
+    height: 18px;
     margin: auto;
-    margin-top: -674px;
-    margin-right: 55px;
+    margin-top: -669px;
+    margin-right: 54px;
+}
+#vertical-line-4 {
+    border-right: 1px solid #dddddd;
+    height: 18px;
+    margin: auto;
+    margin-top: -18px;
+    margin-right: 155px;
 }
 
 /** contact.html - css ends **/
@@ -333,19 +340,19 @@ hr {
     margin-left: -8px;
     margin-top: .5px;
 }
-#vertical-line-4 {
-    border-right: 1px solid #cccccc;
-    height: 30px;
-    margin: auto;
-    margin-top: -879px;
-    margin-right: 194px;
-}
 #vertical-line-5 {
-    border-right: 1px solid #cccccc;
-    height: 30px;
+    border-right: 1px solid #dddddd;
+    height: 18px;
     margin: auto;
-    margin-top: -31px;
-    margin-right: 298px;
+    margin-top: -875px;
+    margin-right: 193px;
+}
+#vertical-line-6 {
+    border-right: 1px solid #dddddd;
+    height: 18px;
+    margin: auto;
+    margin-top: -18px;
+    margin-right: 297px;
 }
 
 /** portfolio.html - css ends **/
