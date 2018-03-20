@@ -45,9 +45,10 @@ p1 {
     display: inline-block;
     margin: -25px;
     margin-top: 97px;
-    margin-right: 114px;
+    margin-right: 117px;
     margin-left: -110px;
     padding-left: 29px;
+    font-size: 18px;
     width: auto;
     float: right;
     font-family: Arial, Helvetica, sans-serif;
@@ -119,7 +120,7 @@ hr {
     text-align: center;
     color: white;
     font-size: 10px;
-    margin-left: 185px;
+    margin-left: 200px;
 }
 #box {
     width: 104.9%;
@@ -129,6 +130,20 @@ hr {
 }
 .move-down {
     margin-top: 69px;
+}
+#vertical-line {
+    border-right: 1px solid #cccccc;
+    height: 30px;
+    margin: auto;
+    margin-top: -534px;
+    margin-right: 55px;
+}
+#vertical-line-2 {
+    border-right: 1px solid #cccccc;
+    height: 30px;
+    margin: auto;
+    margin-top: -30px;
+    margin-right: 157px;
 }
 
 /** index.html - css ends **/
@@ -194,6 +209,25 @@ hr {
     width: 958px;
     margin-top: 30px;
     margin-bottom: -5px;
+}
+.copyright-3 {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    margin-left: 248px;
+}
+#box-3 {
+    width: 104.9%;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    margin-left: -8px;
+}
+#vertical-line-3 {
+    border-right: 1px solid #cccccc;
+    height: 30px;
+    margin: auto;
+    margin-top: -674px;
+    margin-right: 55px;
 }
 
 /** contact.html - css ends **/
@@ -290,7 +324,7 @@ hr {
     text-align: center;
     color: white;
     font-size: 10px;
-    margin-left: 185px;
+    margin-left: 77px;
 }
 #box-2 {
     width: 104.9%;
@@ -298,6 +332,20 @@ hr {
     border-top: 5.7px solid #4aaaa5;
     margin-left: -8px;
     margin-top: .5px;
+}
+#vertical-line-4 {
+    border-right: 1px solid #cccccc;
+    height: 30px;
+    margin: auto;
+    margin-top: -879px;
+    margin-right: 194px;
+}
+#vertical-line-5 {
+    border-right: 1px solid #cccccc;
+    height: 30px;
+    margin: auto;
+    margin-top: -31px;
+    margin-right: 298px;
 }
 
 /** portfolio.html - css ends **/
